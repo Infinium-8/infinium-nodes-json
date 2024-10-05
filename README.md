@@ -1,7 +1,7 @@
 ![image](https://raw.githubusercontent.com/Infinium-8/brand/master/logo/wordmark/infinium_wordmark_color.png)
 
 # Infinium Public Nodes
-JSON list of public daemons for [Infinium Website](https://infinium.space/).
+JSON list of public daemons for [Infinium](https://infinium.space/).
 
 This list can be consumed in your application so you'll always have an up-to-date list of public nodes. To consume the list, use the following URL: https://raw.githubusercontent.com/Infinium-8/infinium-nodes-json/master/infinium-nodes.json
 
