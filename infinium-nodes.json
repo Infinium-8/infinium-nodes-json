@@ -14,6 +14,11 @@
           "name": "Seed ASIA",
           "url": "185.74.222.212",
           "port": 31112
+        },
+        {
+          "name": "SuperBlockchain Pool Node",
+          "url": "superblockchain.con-ip.com",
+          "port": 19043
         }
   ]
 }
