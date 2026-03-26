@@ -2,7 +2,7 @@
   "nodes":[
          {
           "name": "Seed EUROPE",
-          "url": "146.103.41.135",
+          "url": "europe.infinium.space",
           "port": 31112
         },
         {
