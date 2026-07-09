@@ -3,12 +3,14 @@
          {
           "name": "Seed EUROPE",
           "url": "europe.infinium.space",
-          "port": 31112
+          "p2p_port": 31111,
+          "rpc_port": 31112
         },
         {
           "name": "SuperBlockchain Pool Node",
           "url": "superblockchain.zapto.org",
-          "port": 19043
+          "p2p_port": 19042,
+          "rpc_port": 19043
         }
   ]
 }
